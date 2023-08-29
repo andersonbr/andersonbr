@@ -5,8 +5,17 @@
 <!-- graficos gerados oriundas dos dados de postagens no github -->
 <div> 
   <a href="https://github.com/andersonbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonbr&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonbr&layout=compact&langs_count=16&theme=dracula"/>
+    <picture alt="Stats">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=andersonbr&show_icons=true&theme=dracula">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=andersonbr&show_icons=true">
+      <img alt="Stats" height="180em">
+    </picture>
+    <picture alt="Stats">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=andersonbr&layout=compact&langs_count=16&theme=dracula">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=andersonbr&layout=compact&langs_count=16">
+      <img alt="Stats" height="180em">
+    </picture>
+  </a>
 </div>
 
 ##
