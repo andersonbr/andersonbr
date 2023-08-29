@@ -42,7 +42,7 @@
 
 ## Profiles
 <div style="display: inline_block">
-  <ul>
+  <ul style="list-style-type: none;">
     <li>
       <picture alt="Github icon">
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersonbr/andersonbr/main/github-dark.svg">
