@@ -42,12 +42,16 @@
 
 ## Profiles
 <div style="display: inline_block">
-  <picture alt="Github icon">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersonbr/andersonbr/main/github-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andersonbr/andersonbr/main/github-light.svg">
-    <img alt="Github icon" width="30" height="30">
-  </picture>
-  <a href="https://www.github.com/andersonbr-oss" target="_blank">@andersonbr-oss</a> #Open Source projects contributions
+  <ul>
+    <li>
+      <picture alt="Github icon">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersonbr/andersonbr/main/github-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andersonbr/andersonbr/main/github-light.svg">
+        <img alt="Github icon" width="30" height="30">
+      </picture>
+      <a href="https://www.github.com/andersonbr-oss" target="_blank">@andersonbr-oss</a>: Open Source projects contributions
+    </li>
+  </ul>
 </div>
 
 <!--
