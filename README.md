@@ -28,14 +28,18 @@
 ##
 <!-- botões do linkedin e gmail  -->
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/andersonbr/" target="_blank"><img align="center" alt="icone linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  <a href="https://www.linkedin.com/in/andersonbr/" target="_blank"><img align="center" alt="icone linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-## Open Source projects contributions
+## Profiles
 <div style="display: inline_block">
-  <a href="https://www.github.com/andersonbr-oss" target="_blank"><img align="center" alt="icone github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
+  <picture alt="Github icon">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=154&id=AZOZNnY73haj&format=png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+    <img alt="Github icon" width="30" height="30">
+  </picture>
+  <a href="https://www.github.com/andersonbr-oss" target="_blank">@andersonbr-oss</a> #Open Source projects contributions
 </div>
-
 
 <!--
 **andersonbr/andersonbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
