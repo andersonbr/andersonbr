@@ -31,6 +31,12 @@
   <a href="https://www.linkedin.com/in/andersonbr/" target="_blank"><img align="center" alt="icone linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
 </div>
 
+## Open Source projects contributions
+<div style="display: inline_block">
+  <a href="https://www.github.com/andersonbr-oss" target="_blank"><img align="center" alt="icone github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
+</div>
+
+
 <!--
 **andersonbr/andersonbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
