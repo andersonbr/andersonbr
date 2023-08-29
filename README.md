@@ -34,8 +34,8 @@
 ## Profiles
 <div style="display: inline_block">
   <picture alt="Github icon">
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=154&id=AZOZNnY73haj&format=png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersonbr/andersonbr/main/github-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andersonbr/andersonbr/main/github-light.svg">
     <img alt="Github icon" width="30" height="30">
   </picture>
   <a href="https://www.github.com/andersonbr-oss" target="_blank">@andersonbr-oss</a> #Open Source projects contributions
